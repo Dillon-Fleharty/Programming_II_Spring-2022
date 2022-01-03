@@ -1,10 +1,12 @@
-/*Dillon Flehaty
+/* 
+Dillon Flehaty
 Program #4
 Restaurant Bill
 Write a program that compautes the tax and tip on a restaurant bill for a patron 
 with a $44.500 meal charge. The tax should be 6.75 percent of the meal cost. The 
 tip should be 15 percent of the total after adding the tax. Display the meal cost, tax amount, 
-tip amount, and total bill on the screen.*/ 
+tip amount, and total bill on the screen.
+*/ 
 
 // Initiate preprocessor directive
 #include <iostream>
